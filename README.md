@@ -13,7 +13,7 @@ Proyecto Challenge de Alura (Encriptador de texto): tecnologías HTML, CSS JavaS
   ## USO
   1. Clona este repositorio en tu máquina local.
    ```bash
-   git clone https://github.com/tu-usuario/encriptador-de-texto.git
+   git clone [https://github.com/YagoGomez83/encriptador-de-texto]
    ```
 2. Navega a la carpeta del proyecto.
    ```bash
